@@ -15,4 +15,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 * Dr Marcus <[Marcus I](https://github.com/Dr-MarcusI)
-* Esther A<[ToLuWaNiMe](https://github.com/ToLuWaNiMe)
+* Toluwani <[ToLuWaNiMe](https://github.com/ToLuWaNiMe)
